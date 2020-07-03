@@ -7,8 +7,8 @@
         <link rel="stylesheet" href="https://raw.githubusercontent.com/Ndhel97/progate.github.io/master/ProyekwebF22/stylesheet_penguin_studyclub.css">
         <link rel="stylesheet" href="https://raw.githubusercontent.com/Ndhel97/progate.github.io/master/ProyekwebF22/responsive_penguin_studyclub.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/Ndhel97/progate.github.io/master/ProyekwebF22/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/Ndhel97/progate.github.io/master/ProyekwebF22/font-awesome/css/font-awesome.css">
     </head>
     <body>
         <!-- Ketik code Anda dibawah -->
